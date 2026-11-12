@@ -1,2 +1,2 @@
-# UpkeepNoteApp-Privacy
+# UpkeepNote-Privacy
 Home maintenance app
